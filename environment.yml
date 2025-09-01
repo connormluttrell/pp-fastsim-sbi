@@ -1,0 +1,17 @@
+name: pp-fastsim-sbi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - pandas
+  - h5py
+  - matplotlib
+  - pyyaml
+  - tqdm
+  - pytest
+  - black
+  - ruff
+  - jupyterlab
+  - pip
