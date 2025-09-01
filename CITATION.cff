@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "pp-fastsim-sbi"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Luttrell"
+    given-names: "Connor"
+repository-code: "https://github.com/connorluttrell/pp-fastsim-sbi"
+license: "MIT"
+version: "0.1.0"
+date-released: "2025-09-01"
+keywords: ["high-energy physics", "Geant4", "fast simulation", "SBI"]
